@@ -1,12 +1,12 @@
-##📝 Manual de uso dos Exercícios de Interface Gráfica com Java
+## 📝 Manual de uso dos Exercícios de Interface Gráfica com Java
 
-###📌 Resumo Geral
+### 📌 Resumo Geral
 
 A atividade *Propriedades API Swing Java* consiste em um arquivo que contém 7 exercícios de interfaces gráficas explorando as propriedades dos componentes desenvolvidos com a biblioteca API Swing do Java.
 
 O diretório possuí:
 
-🔹 Uma pasta *src* que contém outras duas pastas, uma delas (exercicios) possuí os seguintes arquivos:
+🔹 Uma pasta [*src*](https://github.com/Bea-Xavier/Beatriz_PropriedadesSwing/tree/main/src) que contém outras duas pastas, uma delas [exercicios](https://github.com/Bea-Xavier/Beatriz_PropriedadesSwing/tree/main/src/exercicios) possuí os seguintes arquivos:
 
 1. Um Painel com um Botão que contabiliza a quantidade de cliques;
 2. Uma Janela com um conjunto de três Painéis agrupados em Abas (Configurações, Perfil, Ajuda);
@@ -16,7 +16,7 @@ O diretório possuí:
 6. Uma Janela com dois Painéis dividos e uma barra de ajuste da divisão;
 7. Um Painel com uma caixa de seleção de opção de países.
 
-🔹 Uma pasta *imagens* que possuí uma imagem de perfil para anexo no arquivo *2*.
+🔹 Uma pasta [*imagens*](https://github.com/Bea-Xavier/Beatriz_PropriedadesSwing/tree/main/src/imagens) que possuí uma imagem de perfil para anexo no arquivo *2*.
 
 ---
 
